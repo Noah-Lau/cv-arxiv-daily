@@ -22,9 +22,5 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
     "Autonomous driving":
         filters: ["BEV Perception", "Transformer"]
-    "Reinforcement Learning":
-        filters: [""]

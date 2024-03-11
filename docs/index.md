@@ -2457,6 +2457,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**DualBEV: CNN is All You Need in View Transformation**|Peidong Li et.al.|[2403.05402](http://arxiv.org/abs/2403.05402)|null|
 |**2024-03-04**|**DEMOS: Dynamic Environment Motion Synthesis in 3D Scenes via Local Spherical-BEV Perception**|Jingyu Gong et.al.|[2403.01740](http://arxiv.org/abs/2403.01740)|null|
 |**2024-01-13**|**DA-BEV: Unsupervised Domain Adaptation for Bird's Eye View Perception**|Kai Jiang et.al.|[2401.08687](http://arxiv.org/abs/2401.08687)|null|
 |**2023-12-19**|**M-BEV: Masked BEV Perception for Robust Autonomous Driving**|Siran Chen et.al.|[2312.12144](http://arxiv.org/abs/2312.12144)|**[link](https://github.com/sranc3/m-bev)**|

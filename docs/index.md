@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.22
+## Updated on 2024.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2465,7 +2465,7 @@ layout: default
 |**2023-12-19**|**RadOcc: Learning Cross-Modality Occupancy Knowledge through Rendering Assisted Distillation**|Haiming Zhang et.al.|[2312.11829](http://arxiv.org/abs/2312.11829)|null|
 |**2023-12-18**|**Diffusion-Based Particle-DETR for BEV Perception**|Asen Nachkov et.al.|[2312.11578](http://arxiv.org/abs/2312.11578)|null|
 |**2023-12-13**|**Instance-aware Multi-Camera 3D Object Detection with Structural Priors Mining and Self-Boosting Learning**|Yang Jiao et.al.|[2312.08004](http://arxiv.org/abs/2312.08004)|null|
-|**2024-03-11**|**An Autonomous Driving Model Integrated with BEV-V2X Perception, Fusion Prediction of Motion and Occupancy, and Driving Planning, in Complex Traffic Intersections**|Fukang Li et.al.|[2312.05104](http://arxiv.org/abs/2312.05104)|null|
+|**2024-04-22**|**An Autonomous Driving Model Integrated with BEV-V2X Perception, Fusion Prediction of Motion and Occupancy, and Driving Planning, in Complex Traffic Intersections**|Fukang Li et.al.|[2312.05104](http://arxiv.org/abs/2312.05104)|null|
 |**2023-11-28**|**Panacea: Panoramic and Controllable Video Generation for Autonomous Driving**|Yuqing Wen et.al.|[2311.16813](http://arxiv.org/abs/2311.16813)|null|
 |**2023-11-08**|**BroadBEV: Collaborative LiDAR-camera Fusion for Broad-sighted Bird's Eye View Map Construction**|Minsu Kim et.al.|[2309.11119](http://arxiv.org/abs/2309.11119)|null|
 |**2023-09-19**|**Multi-camera Bird's Eye View Perception for Autonomous Driving**|David Unger et.al.|[2309.09080](http://arxiv.org/abs/2309.09080)|null|

@@ -1757,7 +1757,7 @@ layout: default
 |**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034](http://arxiv.org/abs/2312.10034)|**[link](https://github.com/shiran-yuan/slimmerf)**|
 |**2023-12-15**|**LAENeRF: Local Appearance Editing for Neural Radiance Fields**|Lukas Radl et.al.|[2312.09913](http://arxiv.org/abs/2312.09913)|null|
 |**2023-12-15**|**SLS4D: Sparse Latent Space for 4D Novel View Synthesis**|Qi-Yuan Feng et.al.|[2312.09743](http://arxiv.org/abs/2312.09743)|null|
-|**2023-12-15**|**Towards Transferable Targeted 3D Adversarial Attack in the Physical World**|Yao Huang et.al.|[2312.09558](http://arxiv.org/abs/2312.09558)|null|
+|**2023-12-15**|**Towards Transferable Targeted 3D Adversarial Attack in the Physical World**|Yao Huang et.al.|[2312.09558](http://arxiv.org/abs/2312.09558)|**[link](https://github.com/aries-iai/tt3d)**|
 |**2023-12-14**|**LatentEditor: Text Driven Local Editing of 3D Scenes**|Umar Khalid et.al.|[2312.09313](http://arxiv.org/abs/2312.09313)|**[link](https://github.com/umarkhalidAI/LatentEditor)**|
 |**2023-12-14**|**Stable Score Distillation for High-Quality 3D Generation**|Boshi Tang et.al.|[2312.09305](http://arxiv.org/abs/2312.09305)|null|
 |**2023-12-14**|**ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining**|Ruoxi Shi et.al.|[2312.09249](http://arxiv.org/abs/2312.09249)|null|

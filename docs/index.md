@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.07
+## Updated on 2024.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2463,7 +2463,7 @@ layout: default
 |**2024-05-24**|**Automated Parking Planning with Vision-Based BEV Approach**|Yuxuan Zhao et.al.|[2406.15430](http://arxiv.org/abs/2406.15430)|null|
 |**2024-07-21**|**A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective**|Huaiyuan Xu et.al.|[2405.05173](http://arxiv.org/abs/2405.05173)|**[link](https://github.com/huaiyuanxu/3d-occupancy-perception)**|
 |**2024-05-03**|**DiffMap: Enhancing Map Segmentation with Map Prior Using Diffusion Model**|Peijin Jia et.al.|[2405.02008](http://arxiv.org/abs/2405.02008)|null|
-|**2024-04-20**|**RoadBEV: Road Surface Reconstruction in Bird's Eye View**|Tong Zhao et.al.|[2404.06605](http://arxiv.org/abs/2404.06605)|**[link](https://github.com/ztsrxh/roadbev)**|
+|**2024-08-07**|**RoadBEV: Road Surface Reconstruction in Bird's Eye View**|Tong Zhao et.al.|[2404.06605](http://arxiv.org/abs/2404.06605)|**[link](https://github.com/ztsrxh/roadbev)**|
 |**2024-03-08**|**DualBEV: CNN is All You Need in View Transformation**|Peidong Li et.al.|[2403.05402](http://arxiv.org/abs/2403.05402)|**[link](https://github.com/peidongli/dualbev)**|
 |**2024-03-04**|**DEMOS: Dynamic Environment Motion Synthesis in 3D Scenes via Local Spherical-BEV Perception**|Jingyu Gong et.al.|[2403.01740](http://arxiv.org/abs/2403.01740)|null|
 |**2024-01-13**|**DA-BEV: Unsupervised Domain Adaptation for Bird's Eye View Perception**|Kai Jiang et.al.|[2401.08687](http://arxiv.org/abs/2401.08687)|null|

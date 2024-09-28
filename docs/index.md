@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2457,6 +2457,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**Hierarchical End-to-End Autonomous Driving: Integrating BEV Perception with Deep Reinforcement Learning**|Siyi Lu et.al.|[2409.17659](http://arxiv.org/abs/2409.17659)|null|
 |**2024-09-20**|**OneBEV: Using One Panoramic Image for Bird's-Eye-View Semantic Mapping**|Jiale Wei et.al.|[2409.13912](http://arxiv.org/abs/2409.13912)|**[link](https://github.com/jialewei/onebev)**|
 |**2024-09-18**|**RopeBEV: A Multi-Camera Roadside Perception Network in Bird's-Eye-View**|Jinrang Jia et.al.|[2409.11706](http://arxiv.org/abs/2409.11706)|null|
 |**2024-09-16**|**Robust Bird's Eye View Segmentation by Adapting DINOv2**|Merve Rabia Barın et.al.|[2409.10228](http://arxiv.org/abs/2409.10228)|null|
